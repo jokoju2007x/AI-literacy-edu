@@ -3,8 +3,8 @@
 An AI literacy program for middle schoolers at community childcare centers in Seoul,
 and the practice tool used to teach it.
 
-**Live:** https://[username].github.io/[repo]/
-**Tool:** https://[username].github.io/[repo]/lab/
+**Live:** https://jokoju2007x.github.io/AI-literacy-edu/
+**Tool:** https://jokoju2007x.github.io/AI-literacy-edu/lab/
 
 ---
 
@@ -54,4 +54,4 @@ Shinhan Scholarship Foundation Impact Lab, Team 2 (5 people).
 
 ## License
 
-`[MIT, or whatever you choose]`
+MIT
