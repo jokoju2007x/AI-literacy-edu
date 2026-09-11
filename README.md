@@ -30,8 +30,8 @@ Three parts:
 
 Built with Claude.
 
-> **What broke in the room:** `[fill in the real failure you saw]`
-> **The fix:** `[fill in what you changed]`
+> **What broke in the room:** `[Students typed two or three words, got a flat generic answer, and concluded the AI just wasn't very good — so they stopped trying instead of rewriting.]`
+> **The fix:** `[I moved the goal checklist above the text box and made students name what they wanted before the box would accept anything.]`
 
 That failure became session 2 of the curriculum.
 
@@ -50,7 +50,7 @@ One laptop per student, plus a printed workbook.
 ## Team
 
 Shinhan Scholarship Foundation Impact Lab, Team 2 (5 people).
-`[Your name]` — tool development and partner outreach.
+`[YE JUN JO]` — tool development and partner outreach.
 
 ## License
 
